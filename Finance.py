@@ -1,4 +1,4 @@
-#when I run the script I'd like to export a CSV of all transactions from the month.
+#In the future when I run the script I'd like to export a CSV of all transactions from the month.
 
 #Date range: (complete)
 #Sum of outgoing: (complete)
